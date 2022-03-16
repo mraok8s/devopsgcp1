@@ -1,1 +1,2 @@
 Hello this is commit 1
+Thanks for the commit 1
